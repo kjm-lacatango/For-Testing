@@ -1,2 +1,2 @@
-note - 01
-note - 02
+note -> 01
+note -> 02
