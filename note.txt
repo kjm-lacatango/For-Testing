@@ -1,5 +1,3 @@
-This must be in new branch
 note - 1	-> modified by Keau Lacatango
 note - 2	-> modified by Keau Lacatango
 note - 3	-> modified by Keau Lacatango
-note - 4	-> modified by Keau Lacatango
