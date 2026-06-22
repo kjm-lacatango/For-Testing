@@ -1,11 +1,1 @@
-Note 1	-> System Generated
-Note 2	-> user1
-Note 3	-> System Generated
-Note 4	-> user1
-Note 5	-> System Generated
-
-
-This is just a dummy data
-try
-
-user1
+Cleared by KJM	--> From branch 1
