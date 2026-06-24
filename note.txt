@@ -1,4 +1,0 @@
-User list
-
-No.		Username		Created By
-1		test			kjm

@@ -1,3 +1,0 @@
-KJMTLacatango
-
-Additional line of code from Task2_AddDateReceived
