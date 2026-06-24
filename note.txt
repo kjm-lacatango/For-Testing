@@ -1,4 +1,0 @@
-User list
-
-No.		Username		Date Received
-1		test			Jun 24, 2026
